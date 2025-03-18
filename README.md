@@ -1,4 +1,3 @@
-# j4f---weather-board
 # Weather Dashboard
 A simple Python application that fetches real-time weather data for a given city using the OpenWeatherMap API and displays it in a user-friendly graphical interface. Built using Python, Tkinter for the GUI, and the requests library to handle API requests.
 
